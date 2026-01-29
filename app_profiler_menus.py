@@ -39,7 +39,7 @@ if menu == "Researcher Profile":
 
     # Collect basic information
     name = "Innocentia P"
-    field = "Astrophysics"
+    field = "Chemistry"
     institution = "University of Science"
 
     # Display basic profile information
